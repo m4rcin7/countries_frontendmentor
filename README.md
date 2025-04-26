@@ -4,7 +4,7 @@
 Inspiration
 This project was inspired by the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). The challenge provided a great opportunity to build a real-world application using modern web development practices.
 
-## Demo: [link here](https://markopersonally.github.io/countries-app/)
+## Demo IN COMING...
 
 
 
