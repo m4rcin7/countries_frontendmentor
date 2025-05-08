@@ -27,7 +27,7 @@ This project was inspired by the [REST Countries API with color theme switcher c
 Install my-project with npm
 
 ```bash
-  https://github.com/markopersonally/countries-app.git
+  https://github.com/m4rcin7/countries-app.git
   npm install
   npm start
 ```
